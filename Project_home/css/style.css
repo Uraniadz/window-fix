@@ -1,0 +1,340 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.container {
+    width: 1440px;
+    height: 784px;
+    margin: 0 auto;
+}
+header {
+    width: 1280px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 35px 80px 53px 80px;
+}
+a {
+    text-decoration: none;
+}
+.logo {
+    width: 97px;
+    height: 30px;
+}
+nav ul {
+    width: 270px;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    margin-left: 150px;
+}
+header ul li a {
+    font-weight: 500;
+    color: #000000;
+    font-size: 18px;
+}
+.login {
+    width: 200px;
+    height: 54px;
+    color: #0099FF;
+    border: 2px solid #0099FF;
+    border-radius: 5px;
+}
+.login a {
+    color: #0099FF;
+    font-weight: 500;
+    font-size: 18px;
+    display: block;
+    padding: 10px 74px 13px 74px;
+}
+.hero {
+    position: relative;
+    width: 1400px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.color {
+    width: 752px;
+    height: 769px;
+    position: absolute;
+    top: -100px;
+    z-index: -1;
+}
+.title_hero {
+    width: 1044px;
+    height: 769px;
+}
+.title_hero h1 {
+    width: 632px;
+    color: #333333;
+    font-weight: 700;
+    letter-spacing: 3px;
+    line-height: 1.2;
+    margin: 288px 0 32px 80px;
+    font-size: 56px;
+}
+.title_hero p {
+    width: 632px;
+    color: #999999;
+    font-weight: 500;
+    font-size: 20px;
+    margin-left: 80px;
+    letter-spacing: 2px;
+}
+.check {
+    width: 200px;
+    height: 54px;
+    background-color: #0099FF;
+    border-radius: 5%;
+    margin: 30px 0 0 80px;
+}
+.check a {
+    display: inline-block;
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 18px;
+    padding: 13px 45px 13px 45px;
+}
+.img_hero {
+    width: 631px;
+    height: 685px;
+}
+.second_screen {
+    margin-top: 200px;
+    background: rgba(0, 153, 255, 0.05);
+}
+.second_screen .container{
+    text-align: center;
+    padding-bottom: 138px;
+}
+.second_screen h3 {
+    font-weight: 600;
+    font-size: 20px;
+    color: #333333;
+    padding-top: 107px;
+}
+.second_screen h2 {
+    width: 632px;
+    font-weight: 600;
+    font-size: 50px;
+    color: #333333;
+    margin: 20px auto 78px;
+    line-height: 1.3;
+}
+.choose {
+    width: 1000px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 158px auto 0;
+}
+.date, .poly, .doctor {
+    width: 308px;
+    height: 229px;
+    background-color: #ffffff;
+}
+.date img, .poly img, .doctor img  {
+    width: 111px;
+    height: 111px;
+    position: relative;
+    top: -60px;
+    left: 0;
+}
+.choose h4 {
+    margin: -10px 35px 15px 35px;
+    font-size: 20px;
+    color: #333333;
+}
+.choose p {
+    margin-left: 60px;
+    width: 194px;
+    color: #999999;
+    font-size: 18px;
+    font-weight: 500;
+}
+.third_screen .container {
+    width: 1440px;
+    height: 784px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 73px;
+}
+.container .img_doctor {
+    width: 602px;
+    background-color: rgb(224, 242, 255);
+    border-radius: 100%;
+}
+.main {
+    width: 632px;
+    margin-right: 150px;
+}
+.main h2 {
+    color: #333333;
+    font-size: 40px;
+    font-weight: 600;
+    margin: 20px 0 32px 0;
+}
+.main p {
+    color: #999999;
+    font-size: 18px;
+    font-weight: 500;
+}
+.btn {
+    width: 216px;
+    height: 54px;
+    background-color: #0099FF;
+    border-radius: 5px;
+    margin: 65px 0 165px 0;
+}
+.btn a {
+    display: inline-block;
+    color: #ffffff;
+    padding: 13px 36px 13px 45px;
+}
+.four_screen {
+    background-color: rgba(215, 241, 246, 0.34);
+    padding-bottom: 80px;
+    margin-bottom: 10px;
+}
+.four_screen .container {
+    width: 1440px;
+    height: 784px;
+    margin: 0 auto;
+    text-align: center;
+}
+.four_screen .container > h3 {
+    padding: 100px 0 20px 0;
+    color: #333333;
+    font-size: 20px;
+    font-weight: 600;
+}
+.four_screen .container h2 {
+    color: #333333;
+    font-size: 40px;
+    font-weight: 600;
+    margin: 0 0 82px 400px;
+    width: 632px;
+}
+.general_img {
+    width: 1300px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+.block {
+    width: 260px;
+    height: 139px;
+    background-color: #ffffff;
+    position: relative;
+    top: -80px;
+    left: 20px;
+}
+.icons {
+    text-align: left;
+    padding-top: 15px;
+}
+.icons a img{
+  display: inline-block;
+  padding-left: 15px;
+}
+.general_img .block h3 {
+    width: 240px;
+    padding: 5px 0 0 12px;
+    text-align: left;
+    margin: 5px 0;
+}
+.block .special {
+text-align: left;
+padding: 5px 0 0 12px;
+}
+.five_screen .container {
+    width: 1440px;
+    height: 1367px;
+    margin: 0 auto; 
+}
+.five_screen .container > h3 {
+    color: #333333;
+    font-weight: 600;
+    font-size: 20px;
+    padding-top: 100px;
+    margin-left: 80px;
+}
+.five_screen .container > h2 {
+    color: #333333;
+    font-size: 40px;
+    font-weight: 600;
+    width: 632px;
+    line-height: 1.2;
+    padding: 20px 0 40px 80px;
+}
+.testi_general {
+    width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+.testi_general h3, .testi_general p {
+    padding: 20px 0 0 20px;
+}
+.star {
+    padding: 30px 250px 30px 250px;
+}
+.testi {
+    margin-left: -40px;
+}
+.testi, .testi_2 {
+    box-shadow: 0px 4px 15px 0px rgba(0, 0, 0, 0.25);
+}
+.testi_2 {
+    margin-left: 20px;
+    width: 632px;
+}
+.general_action {
+    width: 1280px;
+    height: 348px;
+    background-color: #333333;
+    margin-left: 80px;
+    margin-top: 102px;
+    border-radius: 15px;
+}
+.general_action h2 {
+    color: #ffffff;
+    padding: 74px 521px 72px 82px;
+    font-weight: 600;
+    font-size: 40px;
+}
+.action {
+    width: 1200px;
+    display: flex;
+    justify-content: space-between;
+}
+.action h3 {
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 0 0 74px 74px;
+}
+.contact {
+    width: 218px;
+    height: 54px;
+    background-color: #0099FF;
+    border-radius: 5px;
+    position: relative;
+    top: -25px;
+    left: 0;
+}
+.contact a {
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 500;
+    color: #ffffff;
+    padding: 13px 53px 13px 53px;
+}
+.six_screen {
+    background-color:  rgba(241, 250, 252, 1);
+}
