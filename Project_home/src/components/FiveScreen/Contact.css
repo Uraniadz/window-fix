@@ -1,0 +1,9 @@
+.contact {
+    width: 450px;
+    padding-top: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+.contact h4, .contact h3 {
+    color: #ccc;
+}

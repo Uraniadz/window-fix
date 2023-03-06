@@ -1,0 +1,68 @@
+.backdrop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, .3);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 4;
+}
+.form {
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    display: block;
+    width: 350px;
+    height: 260px;
+    background-color: #163687;
+    margin: 0 0 10px 10px;
+}
+.form input {
+    width: 250px;
+    height: 50px;
+    margin: 30px auto 20px;
+}
+.form .btnCanelExit {
+    margin: 20px 0 0 40px;
+}
+.form .btnCanelExit .btn {
+    display: inline-block;
+    width: 117px;
+    height: 50px;
+    margin-left: 10px;
+} 
+.user {
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+    height: 54px;
+    border: 1px solid black; 
+}
+.user span {
+    display: inline-block;
+    width: 100px;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 12px;
+}
+.loginExit {
+    width: 100px;
+    height: 54px;
+    color: #0099FF;
+    font-weight: 500;
+    font-size: 18px;
+    display: block;
+}
+.login {
+    width: 200px;
+    height: 54px;
+    color: #0099FF;
+    font-weight: 500;
+    font-size: 18px;
+    display: block;
+    padding: 10px 74px 13px 74px;
+}

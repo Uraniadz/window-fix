@@ -1,0 +1,12 @@
+.linkQuick ul {
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 65px;
+}
+.linkQuick ul a{
+    color: #ccc;
+}
+.linkQuick ul a:hover {
+    color: #fff;
+}

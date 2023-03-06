@@ -1,0 +1,67 @@
+/* class BackDropForm */
+.back-drop {
+    display: none;
+    background-color: rgba(0, 0, 0, 0.3);
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 4;
+ }
+ .open_form {
+    display: block;
+ }
+/* class DivImg start*/
+.close {
+    position: absolute;
+    top: 23px;
+    right: 23px;
+}
+/* class InputForm  */
+form {
+    position: absolute;
+    top: 5%;
+    left: 35%;
+    display: block;
+    width: 500px;
+    height: 500px;
+    background-color: #163687;
+    margin: 10px 0 10px 10px;
+ }
+form h2 {
+    color: #FFFFFF;
+    font-size: 24px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+    width: 310px;
+
+    margin: 50px 0 25px 90px;
+    text-align: center;
+}
+input, .btn {
+    display: block;
+    background-color: #ffffff;
+    width: 368px;
+    height: 60px;
+    margin-left: 60px;
+}
+input {
+    margin-bottom: 15px;
+    padding-left: 17px;
+    font-size: 14px;
+}
+input:focus {
+    border: 2px solid #ff0000;
+    color: #ff0000;
+}
+.btn {
+    text-align: center;
+    background-color:#FED133;
+    color: #000;
+    font-weight: 800;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+ 

@@ -1,0 +1,1241 @@
+@media screen and (max-width: 1400px) {
+    .containerOne, .container, .containerThree, .containerFour, .containerFive{
+        width: 1100px;
+    }
+    .containerFour h2 {
+        width: 632px;
+        margin: 0 0 42px 230px;
+    }
+    .generalContact {
+        width: 1100px;
+    }
+    .check {
+        margin-left: 35px;
+    }
+}
+@media screen and (max-width: 1102px) {
+    .second_screen .container {
+      height: 734px;
+      }
+      .second_screen h2 {
+        width: 900px;
+      }
+      .containerThree {
+        height: 670px;
+      }
+      .containerThree h2 {
+        width: 900px;
+      }
+      .containerThree h3 {
+        width: 900px;
+      }
+      .four_screen {
+      padding-bottom: 5px;
+      }
+    .langTel {
+        width: 885px;
+        display: flex;
+        justify-content: flex-end;
+        padding-top: 25px;
+    }
+    .navBtn {
+        width: 765px;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+    .second_screen h2, .containerThree h2 {
+        font-size: 45px;
+    }
+    .second_screen h3,  .containerThree h3 {
+        padding-top: 60px;
+    }
+    .form {
+        position: absolute;
+        top: 20%;
+        left: 32%;
+        margin: 0 0 10px 10px;
+    }
+    form {
+        position: absolute;
+        top: 5%;
+        left: 25%;
+    }
+    .containerOne, .container, .containerThree, .containerFour, .containerFive{
+        width: 900px;
+    }
+    nav ul {
+       width: 420px;
+       margin-left: 90px;
+    }
+    .choose {
+        width: 870px;
+    }
+    .fix_1, .fix_2, .fix_3 {
+        width: 275px;
+    }
+    .choose h4 {
+        margin: -10px auto 15px;
+    }
+    .choose p {
+        margin: 0 auto;
+        width: 194px;
+    }
+    .galley {
+        width: 880px;
+    }
+    figure img {
+        width: 205px;
+    }
+    .galley_3 img {
+        height: 272px;
+    }
+    .containerFour h2 {
+        width: 632px;
+        margin: 0 0 42px 130px;
+    }
+    figure figcaption {
+            margin-left: 25px;
+        }
+    .general_img {
+        width: 900px;
+    }
+    .block_1, .block_2 {
+        width: 430px;
+    }
+    .block_1 img, .block_2 img {
+        width: 350px;
+        height: 200px;
+    }
+    .block {
+        margin-left: 85px;
+    }
+    .check {
+        margin-left: 15px;
+    }
+    .general_img .check {
+        margin: 20px 0 0 115px;
+    }
+    .general_img p {
+        font-size: 16px;
+    }
+    .generalContact {
+        width: 900px;
+    }
+}
+@media screen and (max-width: 912px) {
+    .second_screen .container {
+        height: 600px;
+        }
+        .four_screen {
+        padding-bottom: 80px;
+        }
+        .containerThree h2 {
+            width: 600px;
+          }
+          .containerThree h3 {
+            width: 500px;
+          }
+    .langTel {
+        width: 690px;
+        display: flex;
+        justify-content: flex-end;
+        padding-top: 25px;
+    }
+    .navBtn {
+        width: 650px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .logo {
+        position: relative;
+        top: -30px;
+        left: 60px;
+    }
+    .login {
+        margin-right: 10px;
+    }
+    .form {
+        position: absolute;
+        top: 10%;
+        left: 30%;
+        margin: 0 0 10px 10px;
+    }
+    form {
+        position: absolute;
+        top: 5%;
+        left: 15%;
+    }
+    .containerOne, .container, .containerThree, .containerFour, .containerFive{
+        width: 700px;
+    }
+    .container{
+        height: 600px;;
+     } 
+     .containerThree {
+        height: 520px;
+     }
+     .containerFour {
+        height: 720px;
+     }
+    nav ul {
+        width: 320px;
+        margin-left: 90px;
+     }
+    header ul li a {
+        font-size: 18px;
+    }
+    .user {
+        display: flex;
+        justify-content: space-between;
+        width: 150px;
+        height: 54px;
+        font-size: 20px;
+    }
+    .user span {
+        font-size: 18px;
+    }
+    .loginExit {
+        font-size: 15px;
+        font-weight: 600;
+    }
+    .login {
+        width: 150px;
+        height: 45px;
+        padding: 5px 0 10px 0;
+    }
+    .second_screen .container {
+        padding-bottom: 0px;
+    }
+    .second_screen h3 {
+        padding-top: 30px;
+    }
+    .second_screen h2 {
+        width: 600px;
+        font-size: 32px;
+        margin: 10px auto 0;
+        line-height: 1.2;
+      }
+      .choose {
+        margin-top: 120px;
+        width: 700px;
+    }
+    .fix_1, .fix_2, .fix_3 {
+        width: 220px;
+        height: 220px;
+    }
+    .choose h4 {
+        margin-top: -25px;
+    }
+    .choose p {
+        margin: auto 0;
+    }
+    .galley {
+        display: flex;
+        justify-content: space-around;
+        width: 700px;
+        margin: 0;
+    }
+    figure {
+        width: 200px;
+    }
+    figure figcaption {
+        width: 140px;
+        height: 70px;
+        margin-left: 18px;
+        margin-bottom: -30px;
+        font-size: 16px;
+    }
+    .containerThree h3 {
+        padding-top: 30px;
+    }
+    .containerThree h2 {
+        width: 632px;
+        font-weight: 600;
+        font-size: 32px;
+        margin: 20px auto 40px;
+    }
+    figure img {
+        width: 150px;
+        border-radius: 10px;
+        border: 1px solid green;
+    }
+    .galley_3 img {
+        height: 200px;
+    }
+    .containerFour .toArticleH3 {
+        padding-top: 30px;
+    }
+    .containerFour h2 {
+        width: 532px;
+        margin: 0 0 32px 80px;
+        font-size: 32px;
+    }
+    .general_img {
+        display: flex;
+        justify-content: space-between;
+        width: 700px;
+    }
+    .block {
+        width: 200px;
+        height: 90px;
+        margin-left: 80px;
+        margin-bottom: -10px;
+        border-radius: 5px;
+    }
+    .general_img .block h3 {
+        width: 200px;
+        font-size: 18px;
+        padding-top: 20px;
+    }
+    .block_1 img, .block_2 img {
+        width: 340px;
+        height: 210px;
+    }
+    .block_1, .block_2 {
+        width: 345px;
+    }
+    .general_img p {
+      font-size: 15px;
+        }
+    .general_img .check {
+        margin: 20px auto 0;
+    }
+    .generalContact {
+        width: 700px;
+        display: flex;
+        justify-content: space-between;
+    }
+    .general_img .block_2 h3 {
+        padding-top: 30px;
+    }
+    .contact {
+        width: 380px;
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-end;
+    }
+    .linkQuick ul {
+        width: 270px;
+    }
+    .linkQuick ul a{
+        font-size: 15px;
+    }
+    .contact h4 {
+        font-size: 15px;
+    }
+    .contact h3 {
+        font-size: 17px;
+    }
+    .telFooter a{
+        font-size: 14px;
+    }
+    .telFooter img {
+        position: relative;
+        top: 5px;
+        left: 0;
+        transform: scale(0.9);
+    }
+    .footer {
+        width: 100%;
+        height: 30px;
+        font-size: 13px;
+        padding-top: 5px;
+    }
+}
+@media screen and (max-width: 700px) {
+    .second_screen .container {
+        height: 450px;
+        }
+    .four_screen {
+        padding-bottom: 60px;
+        }
+    .langTel {
+        width: 490px;
+        display: flex;
+        justify-content: flex-end;
+        padding-top: 25px;
+    }
+    .navBtn {
+        width: 400px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    form {
+        position: absolute;
+        top: 5%;
+        left: 15%;
+        width: 400px;
+        height: 410px;
+    }
+    form h2 {
+        font-size: 20px;
+        width: 280px;
+        margin: 40px 0 15px 70px;
+    }
+    input, .btn {
+        width: 330px;
+        height: 55px;
+        margin: 15px auto;
+    }
+    .containerOne, .container, .containerThree, .containerFour, .containerFive{
+        width: 500px;
+    }
+    .form {
+        position: absolute;
+        top: 10%;
+        left: 18%;
+        margin: 0 0 10px 10px;
+    }
+    .logo {
+        position: relative;
+        top: -30px;
+        left: 40px;
+        width: 130px;
+    }
+    .logo img {
+        transform: scale(1);
+    }
+    .logo h3 {
+        display: block;
+        font-size: 13px;
+        width: 130px;
+        margin: -15px 0 0 -30px;
+    }
+    .container{
+        height: 450px;;
+     } 
+     .containerThree {
+        height: 470px;
+     }
+     .containerFour {
+        height: 1300px;
+     }
+     .containerFive {
+        height: 130px;
+     }
+     header {
+        width: 500px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    nav ul {
+        width: 250px;
+        margin-left: 30px;
+     }
+    header ul li a {
+        font-size: 14px;
+    }
+    .user {
+        display: flex;
+        justify-content: space-between;
+        width: 120px;
+        height: 54px;
+    }
+    .user span {
+        font-size: 16px;
+    }
+    .loginExit {
+        font-size: 13px;
+        font-weight: 600;
+    }
+    .login {
+        width: 80px;
+        height: 30px;
+        margin-left: 10px;
+        font-size: 14px;
+        padding: 2px 0 5px 3px;
+    }
+    .second_screen h2 {
+        width: 500px;
+        font-size: 25px;
+    }
+    .fix_1 img, .fix_2 img, .fix_3 img {
+        width: 70px;
+        height: 70px;
+        position: relative;
+        top: -30px;
+        left: 0;
+      }
+    .choose {
+        margin-top: 70px;
+        width: 480px;
+    }
+    .fix_1, .fix_2, .fix_3 {
+        width: 150px;
+        height: 150px;
+    }
+    .choose h4 {
+        height: 40px;
+        font-size: 14px;
+        margin-top: -10px;
+        padding: 0 10px 0 10px;
+    }
+    .choose p {
+        width: 130px;
+        font-size: 14px;
+        margin: auto 0;
+    }
+    .check {
+        width: 150px;
+        height: 44px;
+    }
+    .check a {
+        font-size: 16px;
+        padding: 10px;
+    }
+    .containerThree h2 {
+        width: 532px;
+        font-size: 25px;
+        margin: 10px auto 30px;
+    }
+    .containerFour h2 {
+        width: 432px;
+        margin: 0 0 22px 30px;
+        font-size: 25px;
+    }
+    .general_img {
+        display: block;
+        width: 400px;
+    }
+    .block_1, .block_2 {
+        width: 420px;
+        margin: 10px auto 0;
+    }
+    .block {
+        margin-left: 110px;
+    }
+    .block_1 {
+        margin-bottom: 20px;
+    }
+    .general_img .block_2 h3 {
+        padding-top: 30px;
+    }
+    .generalContact {
+        width: 500px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .contact {
+        width: 360px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 20px;
+    }
+    .linkQuick ul {
+        display: block;
+        width: 80px;
+        position: relative;
+        top: -50px;
+        left: 0;
+    }
+    .linkQuick ul a{
+        font-size: 15px;
+    }
+    .contact h4 {
+        font-size: 13px;
+    }
+    .contact h3 {
+        font-size: 15px;
+    }
+    .telFooter img {
+        position: relative;
+        top: 5px;
+        left: 0;
+        transform: scale(0.9);
+    }
+    .galley .closed {
+        display: none;
+    }
+    .galley {
+        width: 500px;
+    }
+    figure figcaption {
+        margin-left: 14px;
+    }
+
+}
+@media screen and (max-width: 540px) {
+    .containerOne {
+        position: relative;
+    }
+    .containerThree {
+        height: 880px;
+    }
+    .navBtn {
+      display: block;
+      width: 150px;
+    }
+    .burger_menu_btn {
+        position: absolute;
+        right: 0;
+        top: 120px;
+        width: 40px;
+        height: 40px;
+        border: none;
+        z-index: 3;
+        background-color: transparent;
+    }
+    .burger_menu_btn span {
+        position: absolute;
+        width: 30px;
+        height: 3px;
+        background-color: #000;
+        top: 19px;
+        left: 3px;
+        transition: transform .5s, opacity .5s,  background-color .5s ;
+    }
+    .burger_menu_btn span:nth-child(1) {
+        transform: translateY(-10px);
+    }
+    .burger_menu_btn span:nth-child(3) {
+        transform: translateY(10px);
+    }
+    
+    .menu {
+        padding: 10px 10px 20px 0px;
+        position: absolute;
+        top: 100px;
+        right: 0px;
+        background-color: #0099FF;      
+        width: 235px;
+        transition: 0.5s;
+        transform: translate(255px);
+        visibility: hidden;
+    }
+    .menu li {
+        padding-top: 25px;
+        font-size: 20px;
+        margin-left: 20px;
+    }
+    .menu li a{
+        color: #fff;
+        font-size: 16px;
+    }
+    .menu li:nth-child(1) {
+        padding-top: 40px;
+    }
+    .wrap.open .menu {
+        z-index: 2;
+        transform: translateX(19px);
+        visibility: visible;
+    }
+    .wrap.open .burger_menu_btn span:nth-child(1) {
+        transform: translateY(0) rotate(45deg);
+    }
+    .wrap.open .burger_menu_btn span:nth-child(2) {
+     opacity: 0;
+    }
+    .wrap.open .burger_menu_btn span:nth-child(3) {
+        transform: translateY(0) rotate(-45deg);
+    }
+    .wrap.open .burger_menu_btn span {
+        background-color: #fff;
+    }
+    form {
+        position: absolute;
+        top: 5%;
+        left: 12%;
+        width: 370px;
+        height: 390px;
+    }
+    form h2 {
+        font-size: 18px;
+        margin-left: 50px;
+    }
+    .form {
+        width: 300px;
+        height: 240px;
+        position: absolute;
+        top: 10%;
+        left: 19%;
+          }
+    .form input {
+        margin: 25px auto 20px;
+    }
+    .form .btnCanelExit {
+        margin: -10px 0 0 15px;
+      }
+      .form .btnCanelExit .btn {
+        height: 40px;
+      }
+       #fullMenu {
+        display: none;
+    }
+       .langTel {
+        width: 480px;
+        display: flex;
+        justify-content: flex-end;
+        padding-top: 25px;
+    }
+    .logo {
+        position: relative;
+        top: -30px;
+        left: 60px;
+        width: 130px;
+      }
+    .logo img {
+        transform: scale(1);
+    }
+    .logo h3 {
+        font-size: 14px;
+        font-weight: 700;
+        margin-top: -10px;
+    }
+    nav {
+        width: 100px;
+    }
+       nav ul {
+        display: block;
+        margin-left: 0;
+        width: 90px;
+    }
+    ul li {
+        width: 60px;
+        }
+    header {
+        width: 480px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .login {
+        color: #000;
+        width: 92px;
+        height: 36px;
+        padding-top: 5px;
+    }
+    .second_screen h2 {
+        font-size: 24px;
+    }
+    .choose {
+        width: 445px;
+    }
+    .check {
+        margin-left: 25px;
+    }
+    .fix_1, .fix_2, .fix_3 {
+        width: 140px;
+        height: 150px;
+      }
+    .fix_1 img, .fix_2 img, .fix_3 img {
+        width: 70px;
+        height: 70px;
+        position: relative;
+        top: -30px;
+        left: 40px;
+      }
+    .choose h4 {
+        width: 130px;
+        font-size: 15px;
+        margin-left: 10px;
+        margin-right: auto;
+    }
+    .containerThree h2 {
+        width: 500px;
+        font-size: 24px;
+      }
+    .galley {
+        width: 380px;
+        display: block;
+        margin-left: 70px;
+
+      }
+    .galley_1, .galley_2 {
+        float: right;
+      }
+    figure img {
+        margin-top: 10px;
+        width: 190px;
+      }
+    .galley_3 img {
+        width: 190px;
+        height: 250px;
+        margin-left: -35px;
+        margin-bottom: 5px;
+      }
+    .galley .show {
+        display: block;
+        margin-left: -30px;
+      }
+    figure figcaption {
+        margin-left: 30px;
+        margin-top: 10px;
+      }
+    .galley_3 figcaption {
+        position: relative;
+        top: 10px;
+        left: 0;
+        margin-left: 5px;
+      }
+    .galley .show img {
+        margin-top: 0;
+      }
+    .galley .show figcaption {
+        position: relative;
+        top: -10px;
+        left: 0;
+        margin-top: 18px;
+      }
+    .galley_3 img {
+        margin-top: 20px;
+      }
+    .containerThree .check {
+        margin-left: 40px;
+} 
+    .general_img {
+        height: 150px;
+    }
+    .contact {
+        width: 370px;
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-end;
+    }
+    .footerH34 {
+        width: 200px;
+        margin-left: 10px;
+    }
+    .generalContact {
+        width: 480px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .show {
+        display: block;
+      }
+      .body_wrapper {
+        overflow: hidden;
+        width: 100%;
+        position: relative;
+    }
+    }
+
+@media screen and (max-width: 495px) {
+  .show {
+    display: block;
+  }
+   .containerOne, .container, .containerThree, .containerFour, .containerFive{
+    width: 400px;
+}
+   .langTel {
+    width: 400px;
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 25px;
+    }
+    header {
+        width: 400px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    form {
+        position: absolute;
+        top: 5%;
+        left: 6%;
+        width: 360px;
+        height: 390px;
+      }
+      .form {
+        width: 300px;
+        height: 240px;
+        position: absolute;
+        top: 10%;
+        left: 14%;
+      }
+      .menu {
+        position: absolute;
+        top: 100px;
+        right: -20px;
+    }
+    .login {
+        color: #000;
+        width: 92px;
+    }
+  
+    .choose {
+        width: 390px;
+    }
+    .choose h4 {
+        margin-left: 3px;
+        margin-top: -15px;
+        padding: 0 1px 0 1px;
+    }
+    .fix_1, .fix_2, .fix_3 {
+        width: 125px;
+        height: 140px;
+      }
+    .fix_1 img, .fix_2 img, .fix_3 img {
+        width: 60px;
+        height: 60px;
+    }
+    .second_screen h3 {
+        font-size: 16px;
+    }
+    .second_screen h2 {
+        width: 350px;
+        font-size: 18px;
+    }
+    .containerThree h3 {
+        font-size: 18px;
+    }
+    .containerThree h2 {
+        width: 400px;
+        font-size: 20px;
+    }
+    .galley {
+        width: 380px;
+        display: block;
+        margin-left: 25px;
+      }
+      .containerFour .toArticleH3 {
+        font-size: 18px;
+        padding-bottom: 20px;
+      }
+      .containerFour h2 {
+        width: 300px;
+        margin: 0 auto 20px;
+        font-size: 20px;
+      }
+      .block_1, .block_2 {
+        width: 390px;
+        margin: 10px;
+        margin-left: 5px;
+      }
+      .block {
+        margin-left: 100px;
+      }
+      .contact {
+        display: block;
+    }
+    .generalContact {
+        width: 400px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .telFooter {
+        display: inline;
+        padding-left: 10px;
+    }
+    .footerH34 {
+        display: block;
+        margin-top: -40px;
+        margin-bottom: 10px;
+    }
+    .second_screen .container {
+        height: 430px;
+      }
+   
+    
+}
+@media screen and (max-width: 400px) {
+    .containerOne, .container, .containerThree, .containerFour, .containerFive{
+        width: 350px;
+    }
+    form {
+        position: absolute;
+        top: 5%;
+        left: 8%;
+        width: 300px;
+        height: 390px;
+    }
+    form h2 {
+        font-size: 16px;
+        margin-left: 10px;
+    }
+    input, .btn {
+        width: 250px;
+        height: 55px;
+        margin: 15px auto;
+      }
+    .form {
+        width: 300px;
+        height: 240px;
+        position: absolute;
+        top: 10%;
+        left: 8%;
+          }
+    .form input {
+        margin: 25px auto 20px;
+    }
+    .form .btnCanelExit {
+        margin: -10px 0 0 15px;
+      }
+      .form .btnCanelExit .btn {
+        height: 40px;
+      }
+       .langTel {
+        width: 340px;
+        display: flex;
+        justify-content: flex-end;
+        padding-top: 25px;
+        }
+        header {
+            width: 350px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .menu {
+            position: absolute;
+            top: 100px;
+            right: -5px;
+          }
+        .logo {
+            position: relative;
+            top: -30px;
+            left: 30px;
+            width: 130px;
+          }
+          .choose {
+            width: 340px;
+        }
+        .choose h4 {
+            width: 100px;
+            font-size: 12px;
+        }
+        .fix_1, .fix_2, .fix_3 {
+            width: 105px;
+            height: 130px;
+          }
+          .fix_1 img, .fix_2 img, .fix_3 img {
+            position: relative;
+            top: -30px;
+            left: 25px;
+          }
+          .choose p {
+            width: 100px;
+            font-size: 13px;
+            margin: auto 0;
+        }
+        .galley_1, .galley_2 {
+            float: none;
+          }
+        .galley .closed {
+            display: none;
+        }
+        .containerThree {
+            height: 1250px;
+        }
+        .galley {
+            width: 250px;
+            margin: 0 auto;
+        }
+        figure img {
+            width: 250px;
+            height: 270px;
+        }
+        figure figcaption, .galley_3 figcaption {
+            width: 150px;
+            margin-left: 50px;
+        }
+        .galley_3 img {
+            width: 250px;
+            height: 270px;
+            margin-left: 0;
+            margin-bottom: 5px;
+          }
+          .containerThree h2 {
+            width: 350px;
+          }
+          .block_1, .block_2 {
+            width: 300px;
+            margin: 0 auto 10px;
+          }
+          .block_1 img, .block_2 img {
+            width: 280px;
+          }
+          .general_img {
+            width: 350px;
+          }
+          .general_img .block h3 {
+            width: 180px;
+            font-size: 15px;
+          }
+          .block {
+            margin-left: 50px;
+          }
+          .general_img p {
+            padding: 8px 10px 25px 12px; 
+          }
+          .generalContact {
+            width: 350px;
+          }
+}
+@media screen and (max-width: 345px) {
+    .containerOne, .container, .containerThree, .containerFour, .containerFive{
+        width: 280px;
+    }
+    .second_screen .container {
+        height: 920px;
+      }
+    header {
+        width: 280px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .langTel {
+        width: 270px;
+        display: flex;
+        justify-content: flex-end;
+        padding-top: 25px;
+        }
+        .reg_btn {
+            position: relative;
+            top: 0;
+            left: 50px;
+            width: 150px;
+            display: block;
+            padding: 5px;
+            margin-top: 10px;
+            font-size: 13px;
+        }
+    .tel a span, .telFooter a span {
+      font-size: 12px;
+      padding-left: 0px;
+    }
+    .lang {
+        transform: scale(0.9);
+    }
+    .logo img {
+        transform: scale(0.8);
+    }
+    .logo h3 {
+        width: 100px;
+        font-size: 11px;
+        font-weight: 700;
+        margin-top: -10px;
+        margin: -15px 0 0 -18px;
+      }
+      .burger_menu_btn {
+        position: absolute;
+        right: 0;
+        top: 115px;
+      }
+      .second_screen h2 {
+        width: 280px;
+        font-size: 14px;
+      }
+      .second_screen h3 {
+        font-size: 12px;
+      }
+      .choose {
+        width: 280px;
+        display: block;
+        margin: 0 auto;
+      }
+    
+      .fix_1, .fix_2, .fix_3 {
+        width: 200px;
+        height: 180px;
+        margin: 0 auto;
+        margin-bottom: 60px;
+      }
+      .fix_1 {
+        margin-top: 50px;
+      }
+      .fix_1 img, .fix_2 img, .fix_3 img {
+        position: relative;
+        width: 80px;
+        height: 80px;
+        top: -30px;
+        left: 55px;
+      }
+      .choose h4 {
+        width: 200px;
+        font-size: 14px;
+      }
+      .choose p {
+        width: 200px;
+      }
+      .containerThree h2 {
+        width: 280px;
+        font-size: 18px;
+      }
+      .containerThree h3 {
+        font-size: 14px;
+      }
+      .containerFour h2 {
+        width: 280px;
+        font-size: 18px;
+      }
+      .containerFour .toArticleH3 {
+        font-size: 14px;
+      }
+      .general_img {
+        width: 280px;
+      }
+      .block_1, .block_2 {
+        width: 280px;
+      }
+      .block_1 img, .block_2 img{
+        width: 270px;
+      }
+      .general_img p {
+        font-size: 13px;
+      }
+      .generalContact {
+        width: 280px;
+      }
+      .contact {
+        width: 280px;
+      }
+      .footer {
+        font-size: 10px;
+      }
+      .form {
+        width: 200px;
+        height: 230px;
+        position: absolute;
+        top: 10%;
+        left: 8%;
+      }
+      .form input {
+        margin: 25px auto 20px;
+        width: 180px;
+
+      }
+      .form .btnCanelExit .btn {
+        width: 70px;
+      }
+      .user {
+        display: flex;
+        justify-content: space-between;
+        width: 100px;
+        height: 54px;
+      }
+      form {
+        position: absolute;
+        top: 5%;
+        left: 8%;
+        width: 240px;
+        height: 390px;
+      }
+      input, .btn {
+        width: 180px;
+        height: 55px;
+        margin: 15px auto;
+      }
+      form h2 {
+        width: 220px;
+        font-size: 12px;
+      }
+      .btn {
+        padding-left: 0;
+      }
+      .menu {
+        position: absolute;
+        top: 100px;
+        right: -10px;
+        width: 195px;
+      }
+}
