@@ -1,0 +1,42 @@
+.galley {
+    width: 1050px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+.galley .show {
+    display: block;
+}
+figure {
+    width: 250px;
+}
+figure figcaption {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 170px;
+    height: 80px;
+    padding-top: 25px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 5px;
+    margin-left: 38px;
+    margin-bottom: -30px;
+    background-color: #024f82;
+    z-index: 1;
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+}
+figure img {
+    width: 220px;
+    border-radius: 10px;
+    border: 1px solid green;
+}
+.galley_2 figcaption, .galley_3 figcaption {
+    padding-top: 15px;
+    line-height: 1.2;
+}
+.galley_3 img {
+    height: 292px;
+}

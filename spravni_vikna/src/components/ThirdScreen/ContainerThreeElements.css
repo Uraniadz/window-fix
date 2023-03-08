@@ -1,0 +1,23 @@
+.containerThree {
+    width: 1400px;
+    height: 708px;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 100%;
+    text-align: center;
+}
+.containerThree h3 {
+    font-weight: 600;
+    font-size: 20px;
+    color: #333333;
+    padding-top: 80px;
+}
+.containerThree h2 {
+    width: 932px;
+    font-weight: 600;
+    font-size: 50px;
+    color: #333333;
+    margin: 20px auto 50px;
+    line-height: 1.3;
+}

@@ -134,8 +134,8 @@
             width: 600px;
           }
           .containerThree h3 {
-            width: 500px;
             padding-top: 30px;
+            width: 500px;
             margin: 0 auto;
           }
     .langTel {
@@ -263,7 +263,7 @@
     .galley_3 img {
         height: 200px;
     }
-    .containerFour h3 {
+    .containerFour .toArticleH3 {
         padding-top: 30px;
     }
     .containerFour h2 {
@@ -883,7 +883,7 @@
         font-size: 18px;
     }
     .containerThree h3 {
-        width: 340px;
+        width: 300px;
         font-size: 18px;
     }
     .containerThree h2 {
@@ -895,7 +895,7 @@
         display: block;
         margin-left: 25px;
       }
-      .containerFour h3 {
+      .containerFour .toArticleH3 {
         font-size: 18px;
         padding-bottom: 20px;
       }
@@ -1169,7 +1169,7 @@
         width: 280px;
         font-size: 18px;
       }
-      .containerFour h3 {
+      .containerFour .toArticleH3 {
         font-size: 14px;
       }
       .general_img {
