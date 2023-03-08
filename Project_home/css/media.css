@@ -135,6 +135,8 @@
           }
           .containerThree h3 {
             width: 500px;
+            padding-top: 30px;
+            margin: 0 auto;
           }
     .langTel {
         width: 690px;
@@ -247,9 +249,6 @@
         margin-bottom: -30px;
         font-size: 16px;
     }
-    .containerThree h3 {
-        padding-top: 30px;
-    }
     .containerThree h2 {
         width: 632px;
         font-weight: 600;
@@ -264,7 +263,7 @@
     .galley_3 img {
         height: 200px;
     }
-    .containerFour .toArticleH3 {
+    .containerFour h3 {
         padding-top: 30px;
     }
     .containerFour h2 {
@@ -884,6 +883,7 @@
         font-size: 18px;
     }
     .containerThree h3 {
+        width: 340px;
         font-size: 18px;
     }
     .containerThree h2 {
@@ -895,7 +895,7 @@
         display: block;
         margin-left: 25px;
       }
-      .containerFour .toArticleH3 {
+      .containerFour h3 {
         font-size: 18px;
         padding-bottom: 20px;
       }
@@ -1162,13 +1162,14 @@
         font-size: 18px;
       }
       .containerThree h3 {
+        width: 280px;
         font-size: 14px;
       }
       .containerFour h2 {
         width: 280px;
         font-size: 18px;
       }
-      .containerFour .toArticleH3 {
+      .containerFour h3 {
         font-size: 14px;
       }
       .general_img {
